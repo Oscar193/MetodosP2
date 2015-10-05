@@ -3,7 +3,7 @@ package my_pack;
 /**
  * Class which is on charge of controlling access to confidential information
  * @author Pablo Sánchez (p.sanchez@unican.es)
- * 		   http://personales.unican.es/sanchezbp	
+ * 		   http://personales.unican.es/sanchezbp Hola
  */
 public class AccessControl {
 	

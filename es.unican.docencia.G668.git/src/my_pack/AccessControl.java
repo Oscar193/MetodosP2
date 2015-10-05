@@ -9,6 +9,7 @@ public class AccessControl {
 	
 	/**
 	 * Unique username and password. Security is high in this toy application :-)
+	 * aoaspdasklfas
 	 */
 	static final protected String USERNAME = "Go";
 	static final protected String PASSWORD = "Go";
